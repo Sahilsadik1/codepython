@@ -7,3 +7,5 @@ def user_input():
         return a
 data=user_input()
 print(data)
+                       
+        
